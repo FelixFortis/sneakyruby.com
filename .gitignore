@@ -1,4 +1,6 @@
 _site
 .sass-cache
+Capfile
+config/
 Gemfile.lock
 .DS_Store
